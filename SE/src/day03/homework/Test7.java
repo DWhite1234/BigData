@@ -63,7 +63,6 @@ public class Test7 {
             case 6:
                 date = '日';
                 break;
-
         }
         System.out.println(month+"月"+day+"日,是星期"+date);
     }
